@@ -9,7 +9,7 @@ the following technologies have been used to facilitate the development proccess
 
 ## 🚀Features
 
-- Create, Read, Update, and Delete Task.
+- Create, Read, Update, and Delete Employees.
 - Input form validation.
 - RESTful API design.
   
